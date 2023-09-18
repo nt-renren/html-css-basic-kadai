@@ -1,0 +1,30 @@
+html {
+    font-size: 20x;
+    text-align: center;
+}
+body {
+    font-style:"Arial","Meiryo", sans-serif;
+    
+}
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2rem;
+    letter-spacing: 1.2em;
+    text-shadow:2px 2px 2px gray;
+    border-bottom:solid 3px rgb(115,115,114);
+}
+#oya p {
+    font-weight: bold;
+}
+#m-color {
+    color: skyblue;
+}
+#p-color {
+    color: rgb(255,192,203);
+}
+.one-color {
+    color: pink;
+}
+.two-color {
+    color: skyblue;
+}
